@@ -12,7 +12,7 @@ Hello, my name is Xiang (Charlie) Cheng, a third year undergraduate student from
 
 Throughout my academic journey, I have maintained a strong academic performance. I am currently working as a research assistant with Assistant Professor [Manqi Li](https://en.rmbs.ruc.edu.cn/Faculty/Faculty/allTeacher/854553e1bf3948f6a7812a954434d2e0.htm) from Renmin Business School, and Assistant Professor [Mingtao Xu](http://www.mingtaoxu.com/) from [Tsinghua SEM](https://www.sem.tsinghua.edu.cn/en/). I was previously advised by Associate Professor [Qiang Wang](https://en.rmbs.ruc.edu.cn/Faculty/Faculty/allTeacher/6e717ad1fd8e4efb89555694350f1a3b.htm) from Renmin Business School.
 
-You can find my CV here: [Xiang Cheng's Curriculum Vitae](../assets/CV0502.pdf).
+You can find my CV here: [Xiang Cheng's Curriculum Vitae](https://github.com/XCharlieCHENG/academicpages.github.io/tree/master/assets/CV0502.pdf).
 
 Feel free to contact me via [chengxiang666@ruc.edu.cn](mailto:chengxiang666@ruc.edu.cn) if you have any questions or would like to learn more about my academic pursuits and interests.
 
