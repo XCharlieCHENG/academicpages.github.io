@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : # &twitter
 facebook:
   username               :
   app_id                 :
@@ -83,7 +83,7 @@ author:
   name             : "Xiang Cheng"
   avatar           : "profile.png"
   bio              : "I am a third-year undergraduate student from Renmin University of China, with aspirations to pursue a PhD in Information Systems."
-  location         : "Location"
+  location         : "Beijing, China"
 #   employer         :
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
 #   googlescholar    : "http://yourfullgooglescholarurl.com"
