@@ -10,7 +10,7 @@ redirect_from:
 
 Hello, my name is Xiang (Charlie) Cheng, a third year undergraduate student from [Renmin Business School](https://en.rmbs.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/en). My research interest includes empirical-based Management Information System, especailly AI impact and healthcare management. And I have a passion for pursuing a PhD in Information Systems.
 
-Throughout my academic career, I have maintained a strong academic performance. I am fortunate to work as research assistant with Assistant Professor Manqi Li from Renmin Business School, and Assistant Professor Mingtao Xu from Tsinghua SEM. I was previously advised by Associate Professor Qiang Wang from Renmin Business School.
+Throughout my academic journey, I have maintained a strong academic performance. I am currently working as a research assistant with Assistant Professor [Manqi Li](https://en.rmbs.ruc.edu.cn/Faculty/Faculty/allTeacher/854553e1bf3948f6a7812a954434d2e0.htm) from Renmin Business School, and Assistant Professor [Mingtao Xu](http://www.mingtaoxu.com/) from [Tsinghua SEM](https://www.sem.tsinghua.edu.cn/en/). I was previously advised by Associate Professor [Qiang Wang](https://en.rmbs.ruc.edu.cn/Faculty/Faculty/allTeacher/6e717ad1fd8e4efb89555694350f1a3b.htm) from Renmin Business School.
 
 You can find my CV here: Xiang Cheng's Curriculum Vitae.
 
