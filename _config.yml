@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Charlie Cheng / Personal Homepage"
+title                    : "Charlie Cheng's Homepage"
 title_separator          : "-"
 name                     : &name "Xiang (Charlie) Cheng"
 description              : &description "a third-year undergraduate student from Renmin University of China"
