@@ -15,13 +15,15 @@ redirect_from:
 
 👩‍🏫 Throughout my academic journey, I have maintained a strong academic performance. I am currently collaborating with Assistant Professer [Jinmei Zhou](https://en.rmbs.ruc.edu.cn/Faculty/Faculty/allTeacher/2d2b2f62e84e4285b631fe32ba6ae73b.htm) on the topic of ChatGPT's impact on knowledge sharing community. I am also working as a research assistant with Assistant Professor [Manqi (Maggie) Li](https://en.rmbs.ruc.edu.cn/Faculty/Faculty/allTeacher/854553e1bf3948f6a7812a954434d2e0.htm) in a healthcare management project. I was previously advised by Assistant Professor [Mingtao Xu](http://www.mingtaoxu.com/) from [Tsinghua SEM](https://www.sem.tsinghua.edu.cn/en/), and Associate Professor [Qiang Wang](https://en.rmbs.ruc.edu.cn/Faculty/Faculty/allTeacher/6e717ad1fd8e4efb89555694350f1a3b.htm) from Renmin Business School.
 
-📄 You can find my CV here: [Xiang Cheng's Curriculum Vitae](https://github.com/XCharlieCHENG/academicpages.github.io/tree/master/assets/CV0502.pdf).
+<!-- 📄 You can find my CV here: [Xiang Cheng's Curriculum Vitae](https://github.com/XCharlieCHENG/academicpages.github.io/tree/master/assets/CV0502.pdf). 
+![image](/images/AI impact.png){: .aligh-right width='300px'} 
+-->
 
 📧 Feel free to contact me via [chengxiang666@ruc.edu.cn](mailto:chengxiang666@ruc.edu.cn) if you have any questions or would like to learn more about my academic pursuits and interests.
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
-![image](/images/AI impact.png){: .aligh-right width='300px'} 
+
 
 A data-driven personal website
 ======
