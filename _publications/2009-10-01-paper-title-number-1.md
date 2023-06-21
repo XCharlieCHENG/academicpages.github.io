@@ -9,6 +9,7 @@ Abstract: Community group buying has caused great controversy in recent years. I
 Keyword: Meituan Selection, Community E-commerce, Three-level Distribution, Community Group Buying, Business Model
 
 Recommended citation: Qiang Wang, Xiaohan Wang, Xiang Cheng, Haolin Li, Xinran Hong, and Yuqi Liu, 2022, Great Scourges or Reborn: Meituan Selection’s Exploration in New Community E-commerce. 
+
 Or in Chinese: 王强、王晓晗、程翔、李浩林、洪欣然、刘玉奇，洪水猛兽还是脱胎换骨——美团优选的新型社区电商探索之路，2022，中国人民大学商学院管理案例与教学创新研究中心
 
 
