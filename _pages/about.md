@@ -15,6 +15,8 @@ redirect_from:
 
 👩‍🏫 Throughout my academic journey, I have maintained a strong academic performance. I am currently collaborating with Assistant Professer [Jinmei Zhou](https://en.rmbs.ruc.edu.cn/Faculty/Faculty/allTeacher/2d2b2f62e84e4285b631fe32ba6ae73b.htm) on the topic of ChatGPT's impact on knowledge sharing community. I am also working as a research assistant with Assistant Professor [Manqi (Maggie) Li](https://en.rmbs.ruc.edu.cn/Faculty/Faculty/allTeacher/854553e1bf3948f6a7812a954434d2e0.htm) in a healthcare management project. I was previously advised by Assistant Professor [Mingtao Xu](http://www.mingtaoxu.com/) from [Tsinghua SEM](https://www.sem.tsinghua.edu.cn/en/), and Associate Professor [Qiang Wang](https://en.rmbs.ruc.edu.cn/Faculty/Faculty/allTeacher/6e717ad1fd8e4efb89555694350f1a3b.htm) from Renmin Business School.
 
+🌎 I will be joining New York University as a visiting studeng in fall 2023.
+
 <!-- 📄 You can find my CV here: [Xiang Cheng's Curriculum Vitae](https://github.com/XCharlieCHENG/academicpages.github.io/tree/master/assets/CV0502.pdf). 
 ![image](/images/AI impact.png){: .aligh-right width='300px'} 
 -->
