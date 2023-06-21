@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xiang Cheng / Personal Homepage"
+title                    : "Charlie Cheng / Personal Homepage"
 title_separator          : "-"
-name                     : &name "Xiang Cheng"
+name                     : &name "Xiang (Charlie) Cheng"
 description              : &description "a third-year undergraduate student from Renmin University of China"
 url                      : https://xcharliecheng.github.io/ # 'https://academicpages.github.io'  the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
