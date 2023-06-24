@@ -1,7 +1,7 @@
 ---
 title: "Great Scourges or Reborn: Meituan Selection’s Exploration in New Community E-commerce"
 collection: publications
-publishtype: case study
+publishtype: Case study (Chinese)
 year: 2022
 
 ---
