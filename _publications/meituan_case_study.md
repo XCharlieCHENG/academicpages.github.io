@@ -15,6 +15,7 @@ Recommended citation: Qiang Wang, Xiaohan Wang, Xiang Cheng, Haolin Li, Xinran H
 Or in Chinese: 王强、王晓晗、程翔、李浩林、洪欣然、刘玉奇，洪水猛兽还是脱胎换骨——美团优选的新型社区电商探索之路，2022
 
 The case study was selected as one of the 13th "National Hundred Excellent Management Cases" (General Project) by the National MBA Education Steering Committee, and was included as a stored case in the Research Center for Management Cases of Renmin Business School
+
 [Case link here](https://casecenter.rmbs.ruc.edu.cn/web/case_eninfo.php?ID=693)
 
 
