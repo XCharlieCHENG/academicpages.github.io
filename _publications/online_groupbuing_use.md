@@ -3,6 +3,7 @@ title: "Has the New Business Form Promoted the New Type of Consumption: Evidence
 collection: publications
 publishtype: Working paper (Chinese)
 year: 2022
+author: Qiang Wang & Xiang Cheng
 ---
 
 Abstract: Development of new type of consumption is critical to forming a strong domestic market. Based on resident level data from Meituan, one of the largest online retailing platforms, the paper studies the impact of adoption of new business form on the new type of consumption of urban and rural residents. Using propensity score matching method (PSM), the empirical results show that the adoption of online group buying has a significant spillover effect on new consumption; specifically, the total online consumption of consumers who adopt online group buying increases by 24.5%, among which, the online consumption of goods increases by 30.9%, but there is no increase in terms of the total consumption. Heterogeneity analysis shows that the spillover effect is more significant in the "three-low" situation, such as low-income groups, consumers in low-tier cities and regions with underdeveloped circulation infrastructure. This study shows that the new business form aggregating digitalization and retailing can effectively alleviate the consumption inequality caused by the "three-low" situation, and therefore the study suggests government further support the sustainable development of the new business form to establish an efficient and strong domestic market.
