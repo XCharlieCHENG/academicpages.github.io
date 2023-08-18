@@ -6,7 +6,7 @@ year: 2022
 author: Qiang Wang, Xiaohan Wang, Xiang (Charlie) Cheng, Haolin Li, Xinran Hong, and Yuqi Liu
 ---
 
-Recommended citation: Qiang Wang, Xiaohan Wang, Xiang (Charlie) Cheng, Haolin Li, Xinran Hong, and Yuqi Liu, 2022, Great Scourges or Reborn: Meituan Selection’s Exploration in New Community E-commerce. 
+Recommended citation: Qiang Wang, Xiaohan Wang, Xiang (Charlie) Cheng, Haolin Li, Xinran Hong, and Yuqi Liu, 2022, Great Scourges or Reborn: Meituan Selection’s Exploration in New Community E-commerce, https://casecenter.rmbs.ruc.edu.cn/web/case_eninfo.php?ID=693.
 
 Abstract: Community group buying has caused great controversy in recent years. In December 2020, People's Daily Commentary wrote: "Don't just think about the traffic of a few bundles of cabbage and a few pounds of fruit. " However, just a year later, People's Daily and CCTV News took a 180-degree turn, affirming their positive role in digital convenience and improving people's well-being. The case describes the exploration process of Meituan: the premature death of Xiaoxiang Fresh, the establishment and wild rush of Meituan Selection after the COVID-19 epidemic, the "Nine Must Not" policy promulgated by the State Administration of Market Regulation, the strategic shift of "cost reduction and efficiency increase" after the industry crisis, and the innovation in new community e-commerce model, especially in the pattern reengineering and continuous optimization of procurement, performance, group leaders and consumers. At present, the daily order volume of Meituan Selection has reached 45 million. However, under the pressure of huge losses, the end game of the industry is far from coming, and the exploration of Meituan Selection is still on the road.
 
