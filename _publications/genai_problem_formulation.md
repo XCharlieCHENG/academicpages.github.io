@@ -1,5 +1,5 @@
 ---
-title: "1. Threatened by AI: Analyzing Developers' Problem Formulation after the Launch of Generative AI"
+title: "Threatened by AI: Analyzing Developers' Problem Formulation after the Launch of Generative AI"
 collection: publications
 publishtype: Working paper
 year: 2023
