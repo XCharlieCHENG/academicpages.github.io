@@ -1,5 +1,5 @@
 ---
-title: "Has the New Business Form Promoted the New Type of Consumption: Evidence from Online Group Buying Customers"
+title: "2. Has the New Business Form Promoted the New Type of Consumption: Evidence from Online Group Buying Customers"
 collection: publications
 publishtype: Working paper (Chinese)
 year: 2022
