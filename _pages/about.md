@@ -9,19 +9,19 @@ redirect_from:
 ---
 
 
-😆 Hello, my name is Xiang (Charlie) Cheng, a fourth year undergraduate student from [Renmin Business School](https://en.rmbs.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/en). 
+😆 Hello, my name is Xiang (Charlie) Cheng, a fourth year undergraduate student from [Renmin Business School](https://en.rmbs.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/en), and currently a visiting student at [New York University](https://www.nyu.edu/).
 
 ✋ My research interests primarily focus on empirical-based Management Information Systems, with a particular emphasis on the impact of Artificial Intelligence at both the individual and organizational levels. And I have a passion for pursuing a PhD in Information Systems (24 fall).
 
 👩‍🏫 Throughout my academic journey, I have maintained a strong academic performance. I rank 1st out of 273 in Renmin Business School with a GPA of 3.95/4.0.
 
-I am currently collaborating with Professor [Yulin Fang](https://www.hkubs.hku.hk/people/yulin-fang/) and Assistant Professer [Jingmei Zhou](https://en.rmbs.ruc.edu.cn/Faculty/Faculty/allTeacher/2d2b2f62e84e4285b631fe32ba6ae73b.htm) on the topic of generative AI's impact on knowledge sharing community, focusing on the demand-side structural changes. 
+I am currently collaborating with Assistant Professer [Jingmei Zhou](https://en.rmbs.ruc.edu.cn/Faculty/Faculty/allTeacher/2d2b2f62e84e4285b631fe32ba6ae73b.htm) and Professor [Yulin Fang](https://www.hkubs.hku.hk/people/yulin-fang/) (HKUST) on an empirical study that uncovers the generative AI's impact on knowledge sharing community, focusing on the demand-side structural changes. 
 
-I am also working as a research assistant with Assistant Professor [Manqi (Maggie) Li](https://en.rmbs.ruc.edu.cn/Faculty/Faculty/allTeacher/854553e1bf3948f6a7812a954434d2e0.htm) in a healthcare management project. I implement maching learning techniques in building prediction models of hypnotic drug abuse. 
+I am also collaborating with Assistant Professor [Manqi (Maggie) Li](https://en.rmbs.ruc.edu.cn/Faculty/Faculty/allTeacher/854553e1bf3948f6a7812a954434d2e0.htm) and Associate Professor [Yan Huang](https://www.cmu.edu/tepper/faculty-and-research/faculty-by-area/profiles/huang-yan.html) (CMU) on an empirical paper examining the unintended impact of initial prescription on patient long-term outcomes. Besides, I work as a research assistant in this healthcare management project, where I implement maching learning techniques in building prediction models of hypnotic drug abuse. 
 
-Previously, I had the privilege to be advised by Assistant Professor [Mingtao Xu](http://www.mingtaoxu.com/), and Associate Professor [Qiang Wang](https://en.rmbs.ruc.edu.cn/Faculty/Faculty/allTeacher/6e717ad1fd8e4efb89555694350f1a3b.htm). I co-authored a case study and an empirical paper with Dr. Qiang Wang.
+I am also working as a research assistant with Assistant Professer [Raveesh Mayya](https://www.stern.nyu.edu/faculty/bio/raveesh-mayya) (NYU). I try to uncover the impact of a policy change on the app market.
 
-🌎 I am studying at New York University as a visiting student in fall 2023.
+Previously, I had the privilege to be advised by Assistant Professor [Mingtao Xu](http://www.mingtaoxu.com/) (Tsinghua), and Associate Professor [Qiang Wang](https://en.rmbs.ruc.edu.cn/Faculty/Faculty/allTeacher/6e717ad1fd8e4efb89555694350f1a3b.htm). I co-authored a case study and an empirical paper with Dr. Qiang Wang.
 
 <!-- 📄 You can find my CV here: [Xiang Cheng's Curriculum Vitae](https://github.com/XCharlieCHENG/academicpages.github.io/tree/master/assets/CV0502.pdf). 
 ![image](/images/AI impact.png){: .aligh-right width='300px'} 
