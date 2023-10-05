@@ -1,4 +1,17 @@
 ---
+title: "Unintended Impact of Initial Prescribing in Hypnotics Abuse"
+collection: publications
+publishtype: Working paper
+year: 2023
+author: Xiang (Charlie) Cheng, Manqi (Maggie) Li, Yan Huang
+---
+
+Recommended citation: Xiang (Charlie) Cheng, Manqi (Maggie) Li, Yan Huang, 2023, Unintended Impact of Initial Prescribing in Hypnotics Abuse, working paper. 
+
+Abstract: Hypnotics medication misuse is a severe global problem. In this study, we propose the bullwhip effect in chronic disease management, indicating the self-amplifying impact of an initial prescription of hypnotics medication on a patient's long-term outcome. Utilizing a unique prescription dataset, we identify causality between initial prescription dosage and long-term patient outcomes, uncovering the dynamics involved. Mechanism analysis shows that subsequent prescription in follow-up visits may refer to the dosage of the previous prescription, signifying a prominent impact of the initial decision. This study stresses the need for careful dosage decisions in the early stage of the treatment course.
+
+<!--
+---
 title: "Has the New Business Form Promoted the New Type of Consumption: Evidence from Online Group Buying Customers"
 collection: publications
 publishtype: Working paper (Chinese)
@@ -11,6 +24,7 @@ Recommended citation: Qiang Wang & Xiang (Charlie) Cheng, 2022, Has the New Busi
 Abstract: Development of new type of consumption is critical to forming a strong domestic market. Based on resident level data from Meituan, one of the largest online retailing platforms, the paper studies the impact of adoption of new business form on the new type of consumption of urban and rural residents. Using propensity score matching method, the empirical results show that the adoption of online group buying has a significant spillover effect on new consumption; specifically, the total online consumption of consumers who adopt online group buying increases by 24.5%, among which, the online consumption of goods increases by 30.9%, but there is no increase in terms of the total consumption. Heterogeneity analysis shows that the spillover effect is more significant in the "three-low" situation, such as low-income groups, consumers in low-tier cities and regions with underdeveloped circulation infrastructure. This study shows that the new business form aggregating digitalization and retailing can effectively alleviate the consumption inequality caused by the "three-low" situation, and therefore the study suggests government further support the sustainable development of the new business form to establish an efficient and strong domestic market.
 
 Keyword: New Business Form, New Type of Consumption, Spillover Effect, PSM Model
+-->
 
 
 
