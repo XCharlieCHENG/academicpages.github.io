@@ -27,7 +27,7 @@ redirect_from:
 
 **Unintended Impact of Initial Prescribing in Hypnotics Abuse**
 
-- Joint work with Assistant Professor [Manqi (Maggie) Li](https://en.rmbs.ruc.edu.cn/Faculty/Faculty/allTeacher/854553e1bf3948f6a7812a954434d2e0.htm) and Associate Professor [Yan Huang](https://www.cmu.edu/tepper/faculty-and-research/faculty-by-area/profiles/huang-yan.html) (CMU).
+- Joint work with Assistant Professor [Manqi (Maggie) Li](https://en.rmbs.ruc.edu.cn/Faculty/Faculty/allTeacher/854553e1bf3948f6a7812a954434d2e0.htm) (RUC) and Associate Professor [Yan Huang](https://www.cmu.edu/tepper/faculty-and-research/faculty-by-area/profiles/huang-yan.html) (CMU).
 - We employ both reduced-form and structual modelling approaches to discover the unintended impact of initial prescription on patient long-term outcomes.
 - Presented at 2023 INFORMS annual meeting. Presenter: Manqi (Maggie) Li.
 - In the project, I also work as a research assistant to build prediction models of hypnotic drug abuse. 
