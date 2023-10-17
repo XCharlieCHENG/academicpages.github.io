@@ -35,7 +35,7 @@ redirect_from:
 ## RA Experience
 I am working as a research assistant with Assistant Professer [Raveesh Mayya](https://www.stern.nyu.edu/faculty/bio/raveesh-mayya) (NYU). I try to uncover the impact of a policy change on the app market.
 
-Previously, I had the privilege to be advised by Assistant Professor [Mingtao Xu](http://www.mingtaoxu.com/) (Tsinghua), and Associate Professor [Qiang Wang](https://en.rmbs.ruc.edu.cn/Faculty/Faculty/allTeacher/6e717ad1fd8e4efb89555694350f1a3b.htm). I co-authored a case study with Dr. Qiang Wang.
+Previously, I had the privilege to be advised by Assistant Professor [Mingtao Xu](http://www.mingtaoxu.com/) (Tsinghua), and Associate Professor [Qiang Wang](https://en.rmbs.ruc.edu.cn/Faculty/Faculty/allTeacher/6e717ad1fd8e4efb89555694350f1a3b.htm) (RUC). I co-authored a case study with Dr. Qiang Wang.
 
 <!-- 📄 You can find my CV here: [Xiang Cheng's Curriculum Vitae](https://github.com/XCharlieCHENG/academicpages.github.io/tree/master/assets/CV0502.pdf). 
 ![image](/images/AI impact.png){: .aligh-right width='300px'} 
