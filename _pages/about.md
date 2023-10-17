@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-
+# About Me
 😆 Hello, my name is Xiang (Charlie) Cheng, a fourth year undergraduate student from [Renmin Business School](https://en.rmbs.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/en), and currently a visiting student at [New York University](https://www.nyu.edu/).
 
 ✋ My research interests primarily focus on empirical-based Management Information Systems, with a particular emphasis on the impact of Artificial Intelligence at both the individual and organizational levels. And I have a passion for pursuing a PhD in Information Systems (24 fall).
