@@ -16,10 +16,17 @@ redirect_from:
 👩‍🏫 Throughout my academic journey, I have maintained a strong academic performance. I rank 1st out of 273 in Renmin Business School with a GPA of 3.95/4.0.
 
 ## Research
-**Threatened by AI: Analyzing User Demand on Community-Based Question Answering Platforms after the Launch of Generative AI ** 
-I am currently collaborating with Dr. Bingjie Qian, Assistant Professer [Jingmei Zhou](https://en.rmbs.ruc.edu.cn/Faculty/Faculty/allTeacher/2d2b2f62e84e4285b631fe32ba6ae73b.htm) and Professor [Yulin Fang](https://www.hkubs.hku.hk/people/yulin-fang/) (HKU) on an empirical study that uncovers the generative AI's impact on knowledge sharing community, focusing on the demand-side structural changes. 
+**Threatened by AI: Analyzing User Demand on Community-Based Question Answering Platforms after the Launch of Generative AI**
 
-I am also collaborating with Assistant Professor [Manqi (Maggie) Li](https://en.rmbs.ruc.edu.cn/Faculty/Faculty/allTeacher/854553e1bf3948f6a7812a954434d2e0.htm) and Associate Professor [Yan Huang](https://www.cmu.edu/tepper/faculty-and-research/faculty-by-area/profiles/huang-yan.html) (CMU) on a structual modelling paper examining the unintended impact of initial prescription on patient long-term outcomes. Besides, I work as a research assistant in this healthcare management project, where I implement maching learning techniques in building prediction models of hypnotic drug abuse. 
+- Joint work with Assistant Professer [Jingmei Zhou](https://en.rmbs.ruc.edu.cn/Faculty/Faculty/allTeacher/2d2b2f62e84e4285b631fe32ba6ae73b.htm) (RUC),  Dr. Bingjie Qian, and Professor [Yulin Fang](https://www.hkubs.hku.hk/people/yulin-fang/) (HKU).
+- We try to uncover the generative AI's impact on knowledge sharing community, focusing on the demand-side structural changes.
+- Schedule to present (by me) at 2023 Conference on Artificial Intelligence, Machine Learning, and Business Analytics (Temple University).
+
+**Unintended Impact of Initial Prescribing in Hypnotics Abuse**
+
+- Joint work with Assistant Professor [Manqi (Maggie) Li](https://en.rmbs.ruc.edu.cn/Faculty/Faculty/allTeacher/854553e1bf3948f6a7812a954434d2e0.htm) and Associate Professor [Yan Huang](https://www.cmu.edu/tepper/faculty-and-research/faculty-by-area/profiles/huang-yan.html) (CMU).
+- We employ both reduced-form and structual modelling approach to discover the unintended impact of initial prescription on patient long-term outcomes.
+- In the project, I also work as a research assistant to build prediction models of hypnotic drug abuse. 
 
 I am also working as a research assistant with Assistant Professer [Raveesh Mayya](https://www.stern.nyu.edu/faculty/bio/raveesh-mayya) (NYU). I try to uncover the impact of a policy change on the app market.
 
