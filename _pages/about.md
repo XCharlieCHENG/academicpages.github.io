@@ -17,7 +17,7 @@ redirect_from:
 
 📧 Feel free to contact me via [chengxiang666@ruc.edu.cn](mailto:chengxiang666@ruc.edu.cn) if you have any questions or would like to learn more about my academic pursuits and interests.
 
-## Research
+## Research Papers
 **Threatened by AI: Analyzing User Demand on Community-Based Question Answering Platforms after the Launch of Generative AI**
 
 - Joint work with Assistant Professer [Jingmei Zhou](https://en.rmbs.ruc.edu.cn/Faculty/Faculty/allTeacher/2d2b2f62e84e4285b631fe32ba6ae73b.htm) (RUC),  Dr. Bingjie Qian, and Professor [Yulin Fang](https://www.hkubs.hku.hk/people/yulin-fang/) (HKU).
@@ -32,7 +32,7 @@ redirect_from:
 - Presented at 2023 INFORMS annual meeting. Presenter: Manqi (Maggie) Li.
 - In the project, I also work as a research assistant to build prediction models of hypnotic drug abuse. 
 
-** RA Experience
+## RA Experience
 I am working as a research assistant with Assistant Professer [Raveesh Mayya](https://www.stern.nyu.edu/faculty/bio/raveesh-mayya) (NYU). I try to uncover the impact of a policy change on the app market.
 
 Previously, I had the privilege to be advised by Assistant Professor [Mingtao Xu](http://www.mingtaoxu.com/) (Tsinghua), and Associate Professor [Qiang Wang](https://en.rmbs.ruc.edu.cn/Faculty/Faculty/allTeacher/6e717ad1fd8e4efb89555694350f1a3b.htm). I co-authored a case study with Dr. Qiang Wang.
