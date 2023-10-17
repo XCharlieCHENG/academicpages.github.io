@@ -15,28 +15,33 @@ redirect_from:
 
 👩‍🏫 Throughout my academic journey, I have maintained a strong academic performance. I rank 1st out of 273 in Renmin Business School with a GPA of 3.95/4.0.
 
+📧 Feel free to contact me via [chengxiang666@ruc.edu.cn](mailto:chengxiang666@ruc.edu.cn) if you have any questions or would like to learn more about my academic pursuits and interests.
+
 ## Research
 **Threatened by AI: Analyzing User Demand on Community-Based Question Answering Platforms after the Launch of Generative AI**
 
 - Joint work with Assistant Professer [Jingmei Zhou](https://en.rmbs.ruc.edu.cn/Faculty/Faculty/allTeacher/2d2b2f62e84e4285b631fe32ba6ae73b.htm) (RUC),  Dr. Bingjie Qian, and Professor [Yulin Fang](https://www.hkubs.hku.hk/people/yulin-fang/) (HKU).
 - We try to uncover the generative AI's impact on knowledge sharing community, focusing on the demand-side structural changes.
-- Schedule to present (by me) at 2023 Conference on Artificial Intelligence, Machine Learning, and Business Analytics (Temple University).
+- Schedule to present at 2023 Conference on Artificial Intelligence, Machine Learning, and Business Analytics (Temple University). 
+- A previous version of the paper is accepted and scheduled to present at 2023 Workshop on Information Technologies and Systems (WITS).
 
 **Unintended Impact of Initial Prescribing in Hypnotics Abuse**
 
 - Joint work with Assistant Professor [Manqi (Maggie) Li](https://en.rmbs.ruc.edu.cn/Faculty/Faculty/allTeacher/854553e1bf3948f6a7812a954434d2e0.htm) and Associate Professor [Yan Huang](https://www.cmu.edu/tepper/faculty-and-research/faculty-by-area/profiles/huang-yan.html) (CMU).
-- We employ both reduced-form and structual modelling approach to discover the unintended impact of initial prescription on patient long-term outcomes.
+- We employ both reduced-form and structual modelling approaches to discover the unintended impact of initial prescription on patient long-term outcomes.
+- Presented at 2023 INFORMS annual meeting. Presenter: Manqi (Maggie) Li.
 - In the project, I also work as a research assistant to build prediction models of hypnotic drug abuse. 
 
-I am also working as a research assistant with Assistant Professer [Raveesh Mayya](https://www.stern.nyu.edu/faculty/bio/raveesh-mayya) (NYU). I try to uncover the impact of a policy change on the app market.
+** RA Experience
+I am working as a research assistant with Assistant Professer [Raveesh Mayya](https://www.stern.nyu.edu/faculty/bio/raveesh-mayya) (NYU). I try to uncover the impact of a policy change on the app market.
 
-Previously, I had the privilege to be advised by Assistant Professor [Mingtao Xu](http://www.mingtaoxu.com/) (Tsinghua), and Associate Professor [Qiang Wang](https://en.rmbs.ruc.edu.cn/Faculty/Faculty/allTeacher/6e717ad1fd8e4efb89555694350f1a3b.htm). I co-authored a case study and an empirical paper with Dr. Qiang Wang.
+Previously, I had the privilege to be advised by Assistant Professor [Mingtao Xu](http://www.mingtaoxu.com/) (Tsinghua), and Associate Professor [Qiang Wang](https://en.rmbs.ruc.edu.cn/Faculty/Faculty/allTeacher/6e717ad1fd8e4efb89555694350f1a3b.htm). I co-authored a case study with Dr. Qiang Wang.
 
 <!-- 📄 You can find my CV here: [Xiang Cheng's Curriculum Vitae](https://github.com/XCharlieCHENG/academicpages.github.io/tree/master/assets/CV0502.pdf). 
 ![image](/images/AI impact.png){: .aligh-right width='300px'} 
 -->
 
-📧 Feel free to contact me via [chengxiang666@ruc.edu.cn](mailto:chengxiang666@ruc.edu.cn) if you have any questions or would like to learn more about my academic pursuits and interests.
+
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
