@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## About Me
-😆 Hello, my name is Xiang (Charlie) Cheng, a fourth year undergraduate student from [Renmin Business School](https://en.rmbs.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/en). 
+😆 Hello, my name is Xiang (Charlie) Cheng, a fourth year undergraduate student from [Renmin Business School](https://en.rmbs.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/en), and currently a visiting student at [New York University](https://www.nyu.edu/). 
 
 ✋ My research interests primarily focus on the topic of Artificial Intelligence, leveraging multiple methods (causal inference, structural modelling, etc.). I have a passion for pursuing a PhD in Information Systems (24 fall).
 
@@ -39,9 +39,6 @@ Previously, I had the privilege to be advised by Assistant Professor [Mingtao Xu
 
 <!-- 📄 You can find my CV here: [Xiang Cheng's Curriculum Vitae](https://github.com/XCharlieCHENG/academicpages.github.io/tree/master/assets/CV0502.pdf). 
 ![image](/images/AI impact.png){: .aligh-right width='300px'} 
-
-
-, and currently a visiting student at [New York University](https://www.nyu.edu/)
 
 -->
 
