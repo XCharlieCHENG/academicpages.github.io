@@ -8,7 +8,7 @@ author: Xiang (Charlie) Cheng, Manqi (Maggie) Li, Yan Huang
 
 Recommended citation: Xiang (Charlie) Cheng, Manqi (Maggie) Li, Yan Huang, 2023, Unintended Impact of Initial Prescribing in Hypnotics Abuse, working paper. 
 
-Abstract: Hypnotics medication misuse is a severe global problem. In this study, we propose the bullwhip effect in chronic disease management, indicating the self-amplifying impact of an initial prescription of hypnotics medication on a patient's long-term outcome. Utilizing a unique prescription dataset, we identify causality between initial prescription dosage and long-term patient outcomes, uncovering the dynamics involved. Mechanism analysis shows that subsequent prescription in follow-up visits may refer to the dosage of the previous prescription, signifying a prominent impact of the initial decision. This study stresses the need for careful dosage decisions in the early stage of the treatment course.
+Abstract: Hypnotics misuse is a severe global problem. We discover the causal impact of initial prescribing on long-term outcomes. We ask how physician’s decision is affected by historical prescriptions and what are the underlying mechanisms. We propose three structural models representing physician decision behaviour, where physicians make decisions based on 1) solely the inferred health state, 2) a combination of previous dosage and the inferred state, or 3) a Bayesian updated inferred state. We then quantify the effect of prescribing additional dosage in the initial visit. We stress the need for careful decisions in the early stage of the treatment.
 
 <!--
 ---
