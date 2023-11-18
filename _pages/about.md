@@ -15,7 +15,7 @@ redirect_from:
 
 👩‍🏫 Throughout my academic journey, I have maintained a strong academic performance. I rank 1st out of 273 in Renmin Business School with a GPA of 3.95/4.0.
 
-📧 Feel free to contact me via [chengxiang666@ruc.edu.cn](mailto:chengxiang666@ruc.edu.cn) if you have any questions or would like to learn more about my academic pursuits and interests.
+📧 Feel free to contact me via [charliecheng@nyu.edu](mailto:charliecheng@nyu.edu) if you have any questions or would like to learn more about my academic pursuits and interests.
 
 ## Research Papers
 **Threatened by AI: Analyzing User Demand on Community-Based Question Answering Platforms after the Launch of Generative AI**
