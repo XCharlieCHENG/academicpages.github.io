@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Charlie Cheng's Homepage"
 title_separator          : "-"
 name                     : &name "Xiang (Charlie) Cheng"
-description              : &description "a third-year undergraduate student from Renmin University of China"
+description              : &description "a senior undergraduate student from Renmin University of China"
 url                      : https://xcharliecheng.github.io/ # 'https://academicpages.github.io'  the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "XCharlieCHENG/academicpages.github.io" 
@@ -87,8 +87,8 @@ author:
 #   employer         :
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
 #   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : 'chengxiang666@ruc.edu.cn'
-  wechet           : 'rmbscx'
+  email            : 'charliecheng@nyu.edu'
+  wechet           : 'xcharliecheng'
 #   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
 #   uri              :
 #   bitbucket        :
@@ -100,7 +100,7 @@ author:
 #   github           : "academicpages"
 #   google_plus      :
 #   keybase          :
-  instagram        : "xcharliecheng"
+  # instagram        : "xcharliecheng"
 #   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
 #   lastfm           :
 #   linkedin         :
