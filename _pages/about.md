@@ -11,7 +11,7 @@ redirect_from:
 ## About Me
 😆 Hello, my name is Xiang (Charlie) Cheng, a fourth year undergraduate student from [Renmin Business School](https://en.rmbs.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/en), and currently a visiting student at [New York University](https://www.nyu.edu/). 
 
-✋ My research interests primarily focus on the topic of Artificial Intelligence, leveraging multiple methods (causal inference, structural modelling, etc.). I have a passion for pursuing a PhD in Information Systems (24 fall).
+✋ My research interests primarily focus the economic forces and societal impacts of artificial intelligence technologies, leveraging multiple methods (causal inference, structural modelling, machine learning, etc.). I have a passion for pursuing a PhD in Information Systems (24 fall).
 
 👩‍🏫 Throughout my academic journey, I have maintained a strong academic performance. I rank 1st out of 273 in Renmin Business School with a GPA of 3.95/4.0.
 
