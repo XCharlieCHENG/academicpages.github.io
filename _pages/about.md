@@ -22,7 +22,7 @@ redirect_from:
 
 - Joint work with Assistant Professer [Jingmei Zhou](https://en.rmbs.ruc.edu.cn/Faculty/Faculty/allTeacher/2d2b2f62e84e4285b631fe32ba6ae73b.htm) (RUC),  Dr. Bingjie Qian, and Professor [Yulin Fang](https://www.hkubs.hku.hk/people/yulin-fang/) (HKU).
 - We try to uncover the generative AI's impact on knowledge sharing community, focusing on the demand-side structural changes.
-- Scheduled to present at 2023 Conference on Artificial Intelligence, Machine Learning, and Business Analytics (Temple University). 
+- Presented at 2023 Conference on Artificial Intelligence, Machine Learning, and Business Analytics (Temple University). 
 - A previous version of the paper is accepted and scheduled to present at 2023 Workshop on Information Technologies and Systems (WITS) in India.
 
 **Unintended Impact of Initial Prescribing in Hypnotics Abuse**
