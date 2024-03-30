@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Charlie Cheng's Homepage"
 title_separator          : "-"
 name                     : &name "Xiang (Charlie) Cheng"
-description              : &description "a senior undergraduate student from Renmin University of China"
+description              : &description "Incoming Ph.D. Student in Information Systems at the University of Maryland."
 url                      : https://xcharliecheng.github.io/ # 'https://academicpages.github.io'  the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "XCharlieCHENG/academicpages.github.io" 
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Charlie Cheng"
   avatar           : "profile.png"
-  bio              : "I am an undergraduate student from Renmin University of China, with aspirations to pursue a PhD in Information Systems (24 fall)."
+  bio              : "I am an incoming Ph.D. student in Information Systems at the University of Maryland."
   location         : "Beijing, China"
 #   employer         :
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
