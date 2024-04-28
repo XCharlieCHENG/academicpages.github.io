@@ -13,7 +13,7 @@ redirect_from:
 
 ✋ My research interests primarily focus on the economic forces and societal impacts of artificial intelligence technologies, leveraging multiple methods (causal inference, structural modelling, machine learning, etc.). 
 
-📧 Feel free to contact me via [charliecheng@nyu.edu](mailto:charliecheng@nyu.edu) if you have any questions or would like to learn more about my academic pursuits and interests.
+📧 Feel free to contact me via [xccheng@umd.edu](mailto:xccheng@umd.edu)!
 
 ## Ongoing Projects
 **Large Language Models for Business Research**
