@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## About Me
-Hi, my name is Xiang (Charlie) Cheng (in Chinese: 程翔), a fourth year undergraduate student from [Renmin University](https://www.ruc.edu.cn/en). I will be joining the University of Maryland, [Robert H. Smith School of Business](https://www.rhsmith.umd.edu/), for doctoral studies in Information Systems in Fall 2024. I was a visiting student at [New York University](https://www.nyu.edu/) in Fall 2023.
+Hi, my name is Xiang (Charlie) Cheng, a fourth year undergraduate student from [Renmin University](https://www.ruc.edu.cn/en). I will be joining the University of Maryland, [Robert H. Smith School of Business](https://www.rhsmith.umd.edu/), for doctoral studies in Information Systems in Fall 2024. I was a visiting student at [New York University](https://www.nyu.edu/) in Fall 2023.
 
 My research interests primarily focus on the economic and societal impacts of artificial intelligence technologies, especially generative AI, leveraging multiple methods (causal inference, structural modelling, machine learning, etc.). 
 
