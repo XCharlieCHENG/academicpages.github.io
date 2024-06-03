@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## This Webpage is no longer updated! Please refer to [charliecheng.cc](https://www.charliecheng.cc/). Thanks!
+## This website is no longer updated! Please refer to [charliecheng.cc](https://www.charliecheng.cc/). Thanks!
 
 ## About Me
 Hi, my name is Xiang (Charlie) Cheng, a fourth year undergraduate student from [Renmin University](https://www.ruc.edu.cn/en). I will be joining the University of Maryland, [Robert H. Smith School of Business](https://www.rhsmith.umd.edu/), for doctoral studies in Information Systems in Fall 2024. I was a visiting student at [New York University](https://www.nyu.edu/) in Fall 2023.
